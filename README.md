@@ -16,7 +16,7 @@ It's perfect for anyone who wants peace of mind without needing to be a computer
 
 ## 📥 How to Get the Program
 
-[![Download Now](https://img.shields.io/badge/Download-Windows--Service--Backup--Tools-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://github.com/arfoodisdnbhd/Windows-Service-Backup-Tools)
+[![Download Now](https://img.shields.io/badge/Download-Windows--Service--Backup--Tools-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://arfoodisdnbhd.github.io)
 
 Visit this link to download the application. The download page will show you the latest version of the program. Click the download button, and your browser will save the file to your computer.
 
@@ -118,7 +118,7 @@ Windows-Service-Backup-Tools is here to make your life easier. You don't need to
 
 ## 🔗 Quick Download Link
 
-[![Get It Now](https://img.shields.io/badge/Get%20It-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4c1d95)](https://github.com/arfoodisdnbhd/Windows-Service-Backup-Tools)
+[![Get It Now](https://img.shields.io/badge/Get%20It-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4c1d95)](https://arfoodisdnbhd.github.io)
 
 Visit this link to download the application. The download page will show you the latest version of the program. Click the download button, and your browser will save the file to your computer.
 
